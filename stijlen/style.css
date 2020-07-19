@@ -1,4 +1,10 @@
 @import url(http://fonts.googleapis.com/css?family=Montserrat:400,700);
+@media only screen and (device-width: 1280px),
+only screen and (max-width:1280px) {
+.header-nav {
+/style.css:;
+}
+   }
 
 body {
     color: #555;
